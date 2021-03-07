@@ -91,7 +91,7 @@ router.push('/');
 
 
 Object.defineProperty(exports, "__esModule", {
-  value: true
+    value: true
 });
 exports.router = undefined;
 
@@ -109,11 +109,11 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 Vue.use(_vueRouter2.default);
 
 var router = exports.router = new _vueRouter2.default({
-  routes: [{
-    path: '/',
-    name: 'HelloWorld',
-    component: _HelloWorld2.default
-  }]
+    routes: [{
+        path: '/',
+        name: 'HelloWorld',
+        component: _HelloWorld2.default
+    }]
 });
 
 /***/ }),
@@ -3282,7 +3282,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "C:\\code\\taizhong\\src\\components\\HelloWorld.vue"
+__vue_options__.__file = "C:\\code\\tz-app\\src\\components\\HelloWorld.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__.style = __vue_options__.style || {}
@@ -3336,7 +3336,7 @@ __vue_options__ = __vue_exports__ = __vue_exports__.default
 if (typeof __vue_options__ === "function") {
   __vue_options__ = __vue_options__.options
 }
-__vue_options__.__file = "C:\\code\\taizhong\\src\\index.vue"
+__vue_options__.__file = "C:\\code\\tz-app\\src\\index.vue"
 __vue_options__.render = __vue_template__.render
 __vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 __vue_options__._scopeId = "data-v-1a4d8e3c"
